@@ -1,4 +1,4 @@
-M debian:stretch
+FROM debian:stretch
 
 MAINTAINER misael
 
